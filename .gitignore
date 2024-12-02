@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+[submodule "meu-projeto"]
+    path = meu-projeto
+    url = https://github.com/Usuario/Repositorio-do-submodulo.git
 
 # testing
 /coverage
